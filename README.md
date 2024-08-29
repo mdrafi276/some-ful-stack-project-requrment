@@ -1,6 +1,6 @@
-![Assignment-5](./assets/banner5.png)
+![Project](./assets/banner5.png)
 
-Welcome to Assignment 5! 🎉 In this assignment, your primary objective is to integrate the frontend with the backend system developed in **Assignment 3**. This assignment will challenge you to connect the user interface with the backend functionalities, ensuring a seamless flow of data and interaction between the client and server.
+Welcome to project 5! 🎉 In this project, your primary objective is to integrate the frontend with the backend system developed in **project 3**. This project will challenge you to connect the user interface with the backend functionalities, ensuring a seamless flow of data and interaction between the client and server.
 
 
 ## 🛠️ Technology You Can Use
@@ -20,7 +20,7 @@ Welcome to Assignment 5! 🎉 In this assignment, your primary objective is to i
 
 ## 🔗 Objective
 
-The goal of this assignment is to build a fully functional web application by integrating a frontend with the backend system created in Assignment 3. This involves:
+The goal of this project is to build a fully functional web application by integrating a frontend with the backend system created in project 3. This involves:
 
 - **Connecting your frontend** to the existing backend APIs. 
 - **Implementing user and admin dashboards** with real-time data. 
@@ -63,9 +63,9 @@ The goal of this assignment is to build a fully functional web application by in
 4. **Admin credentials and other credentials if necessary**
 
 
-## 🔢 Assignment Number Based on the Last Digit of PH Student ID
+## 🔢 project Number Based on the Last Digit of PH Student ID
 
-| Last Digit of PH Student ID | Assignment Number (Design No)                                                                                                  |
+| Last Digit of PH Student ID | project Number (Design No)                                                                                                  |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
 | 0, 1                        | [1. Car Wash Booking System](./1-%20Car%20Wash%20Booking%20System.md)                                                          |
 | 2, 3                        | [2. Meeting Room Booking System for Co-working spaces](/#2%20Meeting%20Room%20Booking%20System%20for%20Co-working%20spaces.md) |
@@ -89,4 +89,4 @@ Plagiarism will not be tolerated. Ensure that the code you submit is your work. 
 
 ---
 
-By following these instructions, you'll be well-equipped to complete Assignment 5 successfully. Good luck! 🍀
+By following these instructions, you'll be well-equipped to complete project 5 successfully. Good luck! 🍀
