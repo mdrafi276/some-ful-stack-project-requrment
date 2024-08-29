@@ -1,4 +1,4 @@
-![Project](./assets/banner5.png)
+
 
 Welcome to project 5! 🎉 In this project, your primary objective is to integrate the frontend with the backend system developed in **project 3**. This project will challenge you to connect the user interface with the backend functionalities, ensuring a seamless flow of data and interaction between the client and server.
 
