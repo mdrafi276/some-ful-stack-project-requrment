@@ -22,6 +22,7 @@ Welcome to project 5! 🎉 In this project, your primary objective is to integra
 
 The goal of this project is to build a fully functional web application by integrating a frontend with the backend system created in project 3. This involves:
 
+
 - **Connecting your frontend** to the existing backend APIs. 
 - **Implementing user and admin dashboards** with real-time data. 
 - **Ensuring smooth interaction** and data flow between the frontend and backend systems. 
